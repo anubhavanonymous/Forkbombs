@@ -11,7 +11,7 @@ printf '''
 
 
 '''
-#while true
-#do
-#bash $0 &
-#done
+while true
+do
+bash $0 &
+done
